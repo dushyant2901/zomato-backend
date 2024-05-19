@@ -1,0 +1,522 @@
+[
+  {
+    "_id": "650bd750d2e1f6e27815572e",
+    "name": "Carnival",
+    "cuisine": "Continental",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650bd750d2e1f6e278155730"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650bd750d2e1f6e278155731"
+      },
+      {
+        "name": "Alfredo Pasta",
+        "price": 350,
+        "description": "Indulge in a creamy and comforting classic with our Alfredo Pasta. Tender fettuccine noodles are generously coated in a rich and velvety Alfredo sauce that's made from scratch. Our secret blend of Parmesan cheese, butter, and fresh cream creates a luxurious sauce that clings to every strand of pasta, delivering a burst of flavor with every bite.",
+        "isVeg": true,
+        "_id": "650bf84fa564f6231db9eef5"
+      },
+      {
+        "name": "Alfredo Pasta",
+        "price": 350,
+        "description": "Indulge in a creamy and comforting classic with our Alfredo Pasta. Tender fettuccine noodles are generously coated in a rich and velvety Alfredo sauce that's made from scratch. Our secret blend of Parmesan cheese, butter, and fresh cream creates a luxurious sauce that clings to every strand of pasta, delivering a burst of flavor with every bite.",
+        "isVeg": true,
+        "_id": "650deb9da995580dde3187f1"
+      },
+      {
+        "name": "Paniyaram",
+        "price": 5.99,
+        "_id": "6583632f462736bb556c089b"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 6,
+    "review": [
+      {
+        "reviewText": "Great food and excellent service!",
+        "rating": 4.5,
+        "userId": "617a2ed9466e8c00160192e1",
+        "_id": "650eb4ae0c5fe3d2d66cb20f"
+      },
+      {
+        "reviewText": "Great food and excellent service. Ambience can be improved upon.",
+        "rating": 4.1,
+        "userId": "617a2ed9466e8c00160192e1",
+        "_id": "65836369462736bb556c089d"
+      }
+    ]
+  },
+  {
+    "_id": "650bdf1d1d42b48e25426b63",
+    "name": "Carnival",
+    "cuisine": "Continental",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "description": "A beloved classic of Indian cuisine,Butter chicken is prepared with                         marinated chicken that's first grilled and then simmered in a velvety                        gravy (a.k.a. curry) made with tomato, butter,cashew and almonds and a                       special spice blend as a base.",
+        "isVeg": false,
+        "_id": "650bdf1d1d42b48e25426b64"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650bdf1d1d42b48e25426b65"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650bdf1d1d42b48e25426b66"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650be61dcb55e496f8712739",
+    "name": "Carnival",
+    "cuisine": "Continental",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "description": "A beloved classic of Indian cuisine, Butter chicken is prepared with marinated chicken that's first grilled and then simmered in a velvety gravy (a.k.a. curry) made with tomato, butter, cashew, and almonds and a special spice blend as a base.",
+        "isVeg": false,
+        "_id": "650be61dcb55e496f871273a"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650be61dcb55e496f871273b"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650be61dcb55e496f871273c"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650be65cfb562d28775a6abf",
+    "name": "Atithi 2.0",
+    "cuisine": "Mexican",
+    "address": "Hadapsar",
+    "city": "Pune",
+    "rating": 4.1,
+    "menu": [
+      {
+        "name": "Aloo Gobhi Masala",
+        "price": 300,
+        "description": "This classic dish features tender cauliflower florets and hearty potato chunks, lovingly simmered in a fragrant tomato-based gravy infused with a blend of aromatic spices. Each bite is a harmonious fusion of earthy, savory, and mildly spicy flavors that will transport your taste buds to the vibrant streets of India.",
+        "isVeg": true,
+        "_id": "650be65cfb562d28775a6ac0"
+      },
+      {
+        "name": "Paneer Parda",
+        "price": 400,
+        "description": "Experience a culinary masterpiece! Fresh paneer, stuffed with creamy potatoes and cheese, enveloped in a sweet malai sauce. Sweet, savory, and creamy in every bite.",
+        "isVeg": true,
+        "_id": "650be65cfb562d28775a6ac1"
+      },
+      {
+        "name": "Punjabi Chana Masala",
+        "price": 350,
+        "description": "This iconic North Indian dish features tender chickpeas simmered in a rich and aromatic tomato-based gravy, bursting with a medley of spices that awaken your taste buds. Each spoonful is a journey through the heart of Punjab.",
+        "isVeg": true,
+        "_id": "650be65cfb562d28775a6ac2"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": [
+      {
+        "reviewText": "Great food and excellent service!",
+        "rating": 4.5,
+        "userId": "617a2ed9466e8c00160192e1",
+        "_id": "650de259e8f74e74a6ce9877"
+      }
+    ]
+  },
+  {
+    "_id": "650be677805585b7b8b0490a",
+    "name": "Carnival",
+    "cuisine": "Italian",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "description": "A beloved classic of Indian cuisine, Butter chicken is prepared with marinated chicken that's first grilled and then simmered in a velvety gravy (a.k.a. curry) made with tomato, butter, cashew, and almonds and a special spice blend as a base.",
+        "isVeg": false,
+        "_id": "650be677805585b7b8b0490b"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650be677805585b7b8b0490c"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650be677805585b7b8b0490d"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650be677805585b7b8b0490e",
+    "name": "Atithi",
+    "cuisine": "North Indian",
+    "address": "Hadapsar",
+    "city": "Pune",
+    "rating": 4.1,
+    "menu": [
+      {
+        "name": "Aloo Gobhi Masala",
+        "price": 300,
+        "description": "This classic dish features tender cauliflower florets and hearty potato chunks, lovingly simmered in a fragrant tomato-based gravy infused with a blend of aromatic spices. Each bite is a harmonious fusion of earthy, savory, and mildly spicy flavors that will transport your taste buds to the vibrant streets of India.",
+        "isVeg": true,
+        "_id": "650be677805585b7b8b0490f"
+      },
+      {
+        "name": "Paneer Parda",
+        "price": 400,
+        "description": "Experience a culinary masterpiece! Fresh paneer, stuffed with creamy potatoes and cheese, enveloped in a sweet malai sauce. Sweet, savory, and creamy in every bite.",
+        "isVeg": true,
+        "_id": "650be677805585b7b8b04910"
+      },
+      {
+        "name": "Punjabi Chana Masala",
+        "price": 350,
+        "description": "This iconic North Indian dish features tender chickpeas simmered in a rich and aromatic tomato-based gravy, bursting with a medley of spices that awaken your taste buds. Each spoonful is a journey through the heart of Punjab.",
+        "isVeg": true,
+        "_id": "650be677805585b7b8b04911"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": [
+      {
+        "review": "Khooob Changle.",
+        "rating": 4,
+        "_id": "650dc3722d221e9f05df4c11"
+      }
+    ]
+  },
+  {
+    "_id": "650c31bd5dd983836b5cfaed",
+    "name": "Carnival",
+    "cuisine": "Continental",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "description": "A beloved classic of Indian cuisine, Butter chicken is prepared with marinated chicken that's first grilled and then simmered in a velvety gravy (a.k.a. curry) made with tomato, butter, cashew, and almonds and a special spice blend as a base.",
+        "isVeg": false,
+        "_id": "650c31bd5dd983836b5cfaee"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650c31bd5dd983836b5cfaef"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650c31bd5dd983836b5cfaf0"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c323edec13e459f7e1af0",
+    "name": "Carnival",
+    "cuisine": "Continental",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "description": "A beloved classic of Indian cuisine, Butter chicken is prepared with marinated chicken that's first grilled and then simmered in a velvety gravy (a.k.a. curry) made with tomato, butter, cashew, and almonds and a special spice blend as a base.",
+        "isVeg": false,
+        "_id": "650c323edec13e459f7e1af1"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650c323edec13e459f7e1af2"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650c323edec13e459f7e1af3"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c3284a7b9939f19860734",
+    "name": "Carnival",
+    "cuisine": "Continental",
+    "address": "Main Lane, Koregaon Park",
+    "city": "Pune",
+    "rating": 4.2,
+    "menu": [
+      {
+        "name": "Butter Chicken",
+        "price": 400,
+        "description": "A beloved classic of Indian cuisine, Butter chicken is prepared with marinated chicken that's first grilled and then simmered in a velvety gravy (a.k.a. curry) made with tomato, butter, cashew, and almonds and a special spice blend as a base.",
+        "isVeg": false,
+        "_id": "650c3284a7b9939f19860735"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 300,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are simmered to perfection in a velvety tomato-based gravy, enriched with aromatic spices and a generous dollop of creamy butter. Each bite is a harmonious blend of savory and mildly sweet notes, making it an irresistible treat for your palate.",
+        "isVeg": true,
+        "_id": "650c3284a7b9939f19860736"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 350,
+        "description": "Tender cubes of fresh paneer (Indian cottage cheese) are marinated to perfection in a harmonious blend of yogurt and spices, then grilled to smoky, charred perfection. Served with a zesty mint chutney, this appetizer is a flavorful symphony of textures and tastes.",
+        "isVeg": true,
+        "_id": "650c3284a7b9939f19860737"
+      }
+    ],
+    "averageRating": 0,
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c385061ed69f639f80532",
+    "name": "New Restaurant",
+    "cuisine": "Italian",
+    "address": "123 Main St",
+    "city": "New York",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Pizza Margherita",
+        "price": 12.99,
+        "_id": "650c385061ed69f639f80533"
+      },
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.99,
+        "_id": "650c385061ed69f639f80534"
+      }
+    ],
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c38cce747c17f86b9bf74",
+    "name": "New Restaurant",
+    "cuisine": "Italian",
+    "address": "123 Main St",
+    "city": "New York",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Pizza Margherita",
+        "price": 12.99,
+        "_id": "650c38cce747c17f86b9bf75"
+      },
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.99,
+        "_id": "650c38cce747c17f86b9bf76"
+      }
+    ],
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c392ea92a2608bf16776d",
+    "name": "New Restaurant",
+    "cuisine": "Italian",
+    "address": "123 Main St",
+    "city": "New York",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Pizza Margherita",
+        "price": 12.99,
+        "_id": "650c392ea92a2608bf16776e"
+      },
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.99,
+        "_id": "650c392ea92a2608bf16776f"
+      }
+    ],
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c3938a92a2608bf167772",
+    "name": "New Restaurant",
+    "cuisine": "Italian",
+    "address": "123 Main St",
+    "city": "New York",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Pizza Margherita",
+        "price": 12.99,
+        "_id": "650c3938a92a2608bf167773"
+      },
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.99,
+        "_id": "650c3938a92a2608bf167774"
+      }
+    ],
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650c4a241b73a7ea9204bf95",
+    "name": "New Restaurant",
+    "cuisine": "Italian",
+    "address": "123 Main St",
+    "city": "New York",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.99,
+        "_id": "650c4a241b73a7ea9204bf97"
+      },
+      {
+        "name": "New Dish",
+        "price": 9.99,
+        "_id": "650d78d0922031546a6a0446"
+      }
+    ],
+    "__v": 1,
+    "review": []
+  },
+  {
+    "_id": "650c4ae311c09f84c4d7c927",
+    "name": "New Restaurant",
+    "cuisine": "Italian",
+    "address": "123 Main St",
+    "city": "New York",
+    "rating": 4.5,
+    "menu": [
+      {
+        "name": "Pizza Margherita",
+        "price": 12.99,
+        "_id": "650c4ae311c09f84c4d7c928"
+      },
+      {
+        "name": "Pasta Carbonara",
+        "price": 15.99,
+        "_id": "650c4ae311c09f84c4d7c929"
+      }
+    ],
+    "__v": 0,
+    "review": []
+  },
+  {
+    "_id": "650eabaaba5d2f13cc27a649",
+    "name": "Mallorca Express",
+    "cuisine": "Spanish",
+    "address": "123 Madrid",
+    "city": "Madrid",
+    "rating": 4.3,
+    "menu": [
+      {
+        "name": "Tapas",
+        "price": 10.99,
+        "_id": "650eabaaba5d2f13cc27a64a"
+      },
+      {
+        "name": "Paella",
+        "price": 20.99,
+        "_id": "650eabaaba5d2f13cc27a64b"
+      }
+    ],
+    "review": [],
+    "__v": 0
+  },
+  {
+    "_id": "658362d6494a53d156ac9932",
+    "name": "Mallorca Express",
+    "cuisine": "Spanish",
+    "address": "123 Madrid",
+    "city": "Madrid",
+    "rating": 4.3,
+    "menu": [
+      {
+        "name": "Tapas",
+        "price": 10.99,
+        "_id": "658362d6494a53d156ac9933"
+      },
+      {
+        "name": "Paella",
+        "price": 20.99,
+        "_id": "658362d6494a53d156ac9934"
+      }
+    ],
+    "review": [],
+    "__v": 0
+  }
+]
